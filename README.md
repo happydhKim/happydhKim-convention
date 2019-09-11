@@ -4,11 +4,19 @@
 
 > make project all convention
 
-## Install
+## Project convention
 
-```sh
-npm install
-```
+### Code convention
+- Common convention
+- HTML, CSS convention
+- JS convention(Airbnb javascript style list)
+- Comment convention (js doc)
+### Team convention
+
+- Team code review
+- Log convention ( commit, meeting)
+- Refactor convention
+- Test convention
 
 ## Author
 
