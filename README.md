@@ -10,6 +10,7 @@
 - Common convention
 - HTML, CSS convention
 - JS convention(Airbnb javascript style list)
+- TJ convention(Airbnb typescript style list)
 - Comment convention (js doc)
 ### Team convention
 
