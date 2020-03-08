@@ -1,13 +1,22 @@
 # [ TYPE ] title
 
 # Authored by: happydhKim <happydhKim870@gmail.com>
-
+# FEATURE(Why) or BUGFIX(Problem)
 # Why
+# Problem
 # - reason1
 
 # What
+# Solution
 # - somthing1
 
 # Reference
 # - url
+
 ## title
+## FEATURE : 작업의 단위
+## BUGFIX : 버그를 수정
+## DOC : 문서를 수정
+## CHORE : 간단한 작업 및 수정
+## PR : pull request
+## MERGE : merge
